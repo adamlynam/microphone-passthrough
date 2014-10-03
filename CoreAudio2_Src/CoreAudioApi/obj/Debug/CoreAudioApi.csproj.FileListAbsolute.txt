@@ -1,0 +1,5 @@
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\MicrophonePassthrough\CoreAudio2_Src\CoreAudioApi\bin\Debug\CoreAudioApi.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\MicrophonePassthrough\CoreAudio2_Src\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\MicrophonePassthrough\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\MicrophonePassthrough\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\MicrophonePassthrough\CoreAudio2_Src\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
